@@ -21,6 +21,7 @@ At this point you're waiting on us.
 This file is generated so do not edit it directly.
 Template files for this documentation may be edited.
 
+[Edit blob files here.](pavedroad-io/kevlar-repo/blob/master/repo-templates/oss-default)
 [Edit github files here.](github.com/pavedroad-io/kevlar-repo/repo-templates/oss-default)
 [Edit dotted files here.](../pavedroad-io/kevlar-repo/repo-templates/oss-default)
 [Edit template files here.](pavedroad-io/kevlar-repo/repo-templates/oss-default)
