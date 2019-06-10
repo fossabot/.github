@@ -1,4 +1,4 @@
-# Security Policies and Procedures
+# Security Policies and Procedures for the PavedRoad.io .github project
 
 This document outlines security procedures and general policies for the .github
 project.
@@ -14,7 +14,7 @@ Thank you for improving the security of the .github project. We appreciate your 
 responsible disclosure and will make every effort to acknowledge your
 contributions.
 
-Report security bugs by emailing the lead maintainer at feross@feross.org.
+Report security bugs by emailing our security team at security@pavedroad.io.
 
 The lead maintainer will acknowledge your email within 48 hours, and will send a
 more detailed response within 48 hours indicating the next steps in handling

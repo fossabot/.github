@@ -1,4 +1,4 @@
-# Contributing to the .github
+# Contributing to the .github project
 
 We love pull requests from everyone. By participating in this project, you
 agree to abide by the PavedRoad.io [code of conduct].
