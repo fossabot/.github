@@ -15,15 +15,11 @@ Make your change. Add tests for your change. Make the tests pass.
 
 Push to your fork and [submit a pull request][pr].
 
-[pr]: pulls
+[pr]: https://github.com/pavedroad-io/.github/pulls
 At this point you're waiting on us.
 ### Do Not Edit
 This file is generated so do not edit it directly.
 Template files for this documentation may be edited.
 
-[Edit absblob files here.](https://github.com/pavedroad-io/kevlar-repo/blob/master/repo-templates/oss-default)
-[Edit blob files here.](pavedroad-io/kevlar-repo/blob/master/repo-templates/oss-default)
-[Edit github files here.](github.com/pavedroad-io/kevlar-repo/repo-templates/oss-default)
-[Edit dotted files here.](../pavedroad-io/kevlar-repo/repo-templates/oss-default)
-[Edit template files here.](pavedroad-io/kevlar-repo/repo-templates/oss-default)
-[See build instructions here.](https://github.com/pavedroad-io/.github/README.md)
+[Edit template files here.](https://github.com/pavedroad-io/kevlar-repo/blob/master/repo-templates/oss-default)
+[See build instructions here.](https://github.com/pavedroad-io/kevlar-repo/blob/master/repo-templates/oss-default/README.md)
