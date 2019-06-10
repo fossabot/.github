@@ -15,11 +15,12 @@ Make your change. Add tests for your change. Make the tests pass.
 
 Push to your fork and [submit a pull request][pr].
 
-[pr]: https://github.com/pavedroad-io/.githib/compare/
+[pr]: https://github.com/pavedroad-io/.githib/pulls
 
 At this point you're waiting on us.
 ### Do Not Edit
 This file is generated so do not edit it directly.
 Template files for this documentation may be edited.
-[Edit template files here](https://github.com/pavedroad-io/kevlar-repo/repo-templates/oss-default)
-[See build instructions here](https://github.com/pavedroad-io/kevlar-repo/repo-templates/assets/content/README.md)
+
+[Edit template files here.](https://github.com/pavedroad-io/kevlar-repo/repo-templates/oss-default)
+[See build instructions here.](https://github.com/pavedroad-io/kevlar-repo/repo-templates/assets/content/README.md)
