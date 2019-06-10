@@ -1,6 +1,6 @@
 # Community Code of Conduct
 
-This project follows the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
+The .github project from PavedRoad.io follows the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
 ### Do Not Edit
 This file is generated so do not edit it directly.
 Template files for this documentation may be edited.
